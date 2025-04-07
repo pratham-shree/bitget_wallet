@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pratham/GoQuant_Task/bitget_api/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/bitget_api.dir/bitget.cpp.o -c /home/pratham/GoQuant_Task/bitget_api/bitget.cpp",
+  "file": "/home/pratham/GoQuant_Task/bitget_api/bitget.cpp"
+}
+]

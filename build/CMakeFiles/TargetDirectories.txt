@@ -1,0 +1,3 @@
+/home/pratham/GoQuant_Task/bitget_api/build/CMakeFiles/bitget_api.dir
+/home/pratham/GoQuant_Task/bitget_api/build/CMakeFiles/edit_cache.dir
+/home/pratham/GoQuant_Task/bitget_api/build/CMakeFiles/rebuild_cache.dir

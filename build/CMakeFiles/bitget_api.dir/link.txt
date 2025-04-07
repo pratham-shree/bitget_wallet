@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/bitget_api.dir/bitget.cpp.o -o bitget_api  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libcurl.so 
