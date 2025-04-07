@@ -1,0 +1,1 @@
+This C++ program provides a command-line interface to interact with the Bitget Wallet API using authenticated requests. It allows users to view Bitget crypto Wallet account balances, deposit/withdrawal information, and initiate fund withdrawals securely.
